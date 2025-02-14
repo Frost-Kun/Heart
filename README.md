@@ -1,5 +1,6 @@
 # Heart (Trái tim)
 THE 2022 HEART
+With vietnamese learing style
 
 ---
 ## **🚀 Respect Open-Source**
@@ -10,16 +11,9 @@ I built this for **fun & learning**. If you fork or modify it:
 ❌ **DO NOT try to profit from free content**  
 
 ## ** I won't sell it **
-
-## Code Overview 
-
 ### Files:
 
 - `index.html`: The main HTML file that structures the webpage.
 - `styles.css`: The CSS file that styles the webpage.
-## License 📄
-This project is licensed under UTE.PoseTona - see the [LICENSE](LICENSE) file for details.
----
-Enjoy 💖
 
 ## Frost.
