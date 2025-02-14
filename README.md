@@ -3,7 +3,7 @@ THE 2022 HEART
 With vietnamese learing style
 
 ---
-## **🚀 Respect Open-Source**
+## ** Respect Open-Source**
 I built this for **fun & learning**. If you fork or modify it:  
 ✔ **Use it for creativity, personal projects, or learning**  
 ✔ **Give proper credit when using it in public**  
